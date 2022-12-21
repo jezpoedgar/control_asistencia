@@ -1,0 +1,10 @@
+2y@IaBza6b*duwMAFiy$
+
+
+
+
+configuracion de la bd 
+
+nombre de la base de datos: asistencia
+Nombre de usuario de la Base de Datos: root
+Contraseña: @Mt12345678/
